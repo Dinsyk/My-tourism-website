@@ -1,0 +1,11 @@
+.package-head{
+    text-align: center;
+    color: black;
+}
+.package-headspan{
+    color: yellow;
+}
+.nav-container{
+    position: fixed;
+}
+

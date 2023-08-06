@@ -1,0 +1,19 @@
+.edit-head{
+    text-align: center;
+    color: black;
+}
+.edit-span{
+    color: yellow;
+}
+/* .adpkgform-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} */
+.edit-button{
+    text-align: center;
+    color: white;
+    background-color: yellow;
+    border: 1px solid yellow;
+}

@@ -1,0 +1,24 @@
+.book-head{
+    text-align: center;
+
+}
+.bookhead-span{
+    color: yellow;
+}
+.bookpage-leftimage{
+    width:100%
+}
+.book-inputs{
+    margin-bottom: 3px;
+}
+.button-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: yellow;
+    border: 1px solid yellow;
+}
+.nav-container{
+    position: fixed;
+}

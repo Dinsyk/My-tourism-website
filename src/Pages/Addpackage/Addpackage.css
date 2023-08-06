@@ -1,0 +1,26 @@
+.addpackage-head{
+    text-align: center;
+    color: black;
+}
+.addpackage-span{
+    color: yellow;
+}
+/* .adpkgform-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} */
+.addpackage-button{
+    text-align: center;
+    color: white;
+    background-color: yellow;
+    border: 1px solid yellow;
+}
+/* .navbar-adpkg{
+    position: fixed;
+
+} */
+.addpackage-container{
+    margin-top: 9%;
+}

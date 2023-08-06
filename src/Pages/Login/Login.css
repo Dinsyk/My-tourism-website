@@ -1,0 +1,52 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    
+} */
+.login-container{
+    background: url('/public//assets/login-backgroundimage.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.login-box{
+    width: 320px;
+    height: 60vh;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    position: absolute;
+}
+.avatar-image{
+    width: 70px;
+    height: 70px;
+    border-radius: -50%;
+    position: absolute;
+    top: -50px;
+    left: 40%;
+}
+.login-head{
+    text-align: center;
+}
+.username-box{
+    width: 70%;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.password-box{
+    width: 70%;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.login-button{
+    width: 100px;
+    height: 30px;
+   
+    border-radius: 5px;
+}
+.loginbtn-div{
+    text-align: center;
+}

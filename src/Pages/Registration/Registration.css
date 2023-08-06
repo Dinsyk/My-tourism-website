@@ -1,0 +1,79 @@
+
+
+
+
+
+.register-container{
+    background: url('/public//assets/register-backgroundimage.webp');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.register-box{
+    width: 50%;
+    height: 80vh;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    position: absolute;
+    margin-top: 9%;
+}
+.register-head{
+    text-align: center;
+}
+.avatar-regimage{
+    width: 70px;
+    height: 70px;
+    border-radius: -50%;
+    position: absolute;
+    top: -50px;
+    left: 45%;
+}
+.username-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.password-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.name-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.email-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.image-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.number-box{
+    width: 70%;
+    margin-left: 60px;
+    /* margin-top: 60px; */
+}
+.register-button{
+    width: 100px;
+    height: 30px;
+   
+    border-radius: 5px;
+}
+.registerbtn-div{
+    text-align: center;
+}
+
+.nav-container{
+    position:sticky;
+    top: 0;
+}

@@ -1,0 +1,52 @@
+.viewpackage-container{
+    background-image: url('/public/assets/viewpage-backgroundimage.webp');
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+    margin-top:10px;
+    background-position: center;
+    margin-top: 6%;
+    
+
+
+}
+.world-span{
+    color: yellow;
+}
+.discover-span{
+    color: white;
+}
+.discover{
+    text-align: center;
+}
+.singlepackageview{
+    color: white;
+    text-align: center;
+}
+.booking-button{
+    background-color: yellow;
+    color: white;
+    border: 1px solid yellow;
+    border-radius: 5px;
+    
+}
+.singlepackageview span{
+    color: orangered;
+    font-weight: 800;
+    
+    
+}
+.h-span{
+    color:orangered ;
+}
+@media (max-width:500px){
+    .h-span{
+        color: aqua;
+        font-size: 12px;
+
+    }
+}
+.view-singleimage{
+    border: 1px solid red;
+    border-radius: 75px;
+}
